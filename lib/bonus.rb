@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  epic_tragedy["motague"]["hero"]["status"]= "dead"
+  epic_tragedy[motague][hero][status]= "dead"
   epic_tragedy["capulet"]["hero"]["status"] ="dead"
 
 
